@@ -1,0 +1,14 @@
+# ninja log v5
+0	139	0	CMakeFiles/MagicJni.dir/MagicJni.cpp.o	8034b9f1b58a8d02
+1	82	0	CMakeFiles/MagicJni.dir/MagicJni.cpp.o	793b3d205bd5c1f9
+1	147	0	CMakeFiles/MagicJni.dir/MagicJni.cpp.o	3398c23d8d334b02
+1	82	0	CMakeFiles/MagicJni.dir/MagicJni.cpp.o	e3fa1810772cde08
+1	177	0	CMakeFiles/MagicJni.dir/beautify/MagicBeautify.cpp.o	18df1cfdb7bd2089
+1	51	0	CMakeFiles/MagicJni.dir/bitmap/Conversion.cpp.o	998d95fd1c31ea72
+1	85	0	CMakeFiles/MagicJni.dir/MagicJni.cpp.o	8034b9f1b58a8d02
+1	100	0	CMakeFiles/MagicJni.dir/bitmap/BitmapOperation.cpp.o	c5cfcb59613cb0ba
+1	140	0	CMakeFiles/MagicJni.dir/beautify/MagicBeautify.cpp.o	ebb6ab9b64cdd7be
+1	82	0	CMakeFiles/MagicJni.dir/bitmap/BitmapOperation.cpp.o	c5cfcb59613cb0ba
+1	80	0	/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/build/intermediates/cmake/debug/obj/arm64-v8a/libMagicJni.so	c822a04e4a0fef0
+1	81	0	CMakeFiles/MagicJni.dir/bitmap/BitmapOperation.cpp.o	c5cfcb59613cb0ba
+81	174	0	/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/build/intermediates/cmake/debug/obj/arm64-v8a/libMagicJni.so	c822a04e4a0fef0

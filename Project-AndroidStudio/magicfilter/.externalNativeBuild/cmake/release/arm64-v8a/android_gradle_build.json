@@ -1,0 +1,59 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/nhancao/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"MagicJni-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "MagicJni",
+			"buildCommand" : "/Users/nhancao/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/release/arm64-v8a --target MagicJni",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/nhancao/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/nhancao/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DMagicJni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/src/main/cpp/MagicJni.cpp",
+					"workingDirectory" : "/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/nhancao/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/nhancao/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DMagicJni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/src/main/cpp/beautify/MagicBeautify.cpp",
+					"workingDirectory" : "/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/nhancao/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/nhancao/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DMagicJni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/src/main/cpp/bitmap/BitmapOperation.cpp",
+					"workingDirectory" : "/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/nhancao/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/nhancao/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DMagicJni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/src/main/cpp/bitmap/Conversion.cpp",
+					"workingDirectory" : "/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/build/intermediates/cmake/release/obj/arm64-v8a/libMagicJni.so",
+			"toolchain" : "1425822223191807563"
+		}
+	},
+	"toolchains" : 
+	{
+		"1425822223191807563" : 
+		{
+			"cCompilerExecutable" : "/Users/nhancao/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/nhancao/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

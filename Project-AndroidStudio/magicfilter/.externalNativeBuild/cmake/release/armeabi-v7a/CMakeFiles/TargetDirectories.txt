@@ -1,0 +1,3 @@
+/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/MagicJni.dir

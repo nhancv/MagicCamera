@@ -1,0 +1,2 @@
+[1/2] Building CXX object CMakeFiles/MagicJni.dir/bitmap/BitmapOperation.cpp.o
+[2/2] Linking CXX shared library /Users/nhancao/Downloads/MagicCamera-master/Project-AndroidStudio/magicfilter/build/intermediates/cmake/debug/obj/arm64-v8a/libMagicJni.so
